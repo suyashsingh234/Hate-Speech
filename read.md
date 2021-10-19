@@ -1,1 +1,0 @@
-multilingual hate speech detcetion
